@@ -1,4 +1,4 @@
-![I am a new BSCSE student of UNITED INTERNATIONAL UNIVERSITY](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/467157664_1368611237442933_1734615088368327648_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGI-NOGRCCAiEZdJ0kqa3WfW_pHEHsPm95b-kcQew-b3rn57r50N_Osia6zS9-4UY7vGDB8w_uEinkXuQJXXLKa&_nc_ohc=U7nGYrHRtl0Q7kNvgEVLuMb&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=ACMeKx4anDja86uoqVn-CDW&oh=00_AYDsRfcA0lE1LuBbylvHBmizTkUp8ggfejj2fy5kp4KVKg&oe=674DE729)
+![I am a new BSCSE student of UNITED INTERNATIONAL UNIVERSITY](https://github.com/ANANNOCHOWDHURY/ANANNOCHOWDHURY/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.jpg)
 # Hi there 👋, I am ANANNO CHOWDHURY
 ### I am a new BSCSE student of UNITED INTERNATIONAL UNIVERSITY
 
