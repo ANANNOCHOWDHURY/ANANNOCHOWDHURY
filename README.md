@@ -1,6 +1,7 @@
+![I am a new BSCSE student of UNITED INTERNATIONAL UNIVERSITY](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/467157664_1368611237442933_1734615088368327648_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGI-NOGRCCAiEZdJ0kqa3WfW_pHEHsPm95b-kcQew-b3rn57r50N_Osia6zS9-4UY7vGDB8w_uEinkXuQJXXLKa&_nc_ohc=U7nGYrHRtl0Q7kNvgEVLuMb&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=ACMeKx4anDja86uoqVn-CDW&oh=00_AYDsRfcA0lE1LuBbylvHBmizTkUp8ggfejj2fy5kp4KVKg&oe=674DE729)
 # Hi there 👋, I am ANANNO CHOWDHURY
 ### I am a new BSCSE student of UNITED INTERNATIONAL UNIVERSITY
-![I am a new BSCSE student of UNITED INTERNATIONAL UNIVERSITY](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/467157664_1368611237442933_1734615088368327648_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGI-NOGRCCAiEZdJ0kqa3WfW_pHEHsPm95b-kcQew-b3rn57r50N_Osia6zS9-4UY7vGDB8w_uEinkXuQJXXLKa&_nc_ohc=U7nGYrHRtl0Q7kNvgEVLuMb&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=ACMeKx4anDja86uoqVn-CDW&oh=00_AYDsRfcA0lE1LuBbylvHBmizTkUp8ggfejj2fy5kp4KVKg&oe=674DE729)
+
 
 I am a fresher computer science and engineering (CSE) student at United International University (UIU). My keen interest in technology and programming inspired me to join this department. I am eager to learn new technologies and use them to solve real problems. My goal is to master cyber security. I believe UIU's world-class education and motivating environment will help me develop into a competent engineer and researcher. I am very excited to learn new things and be creative in this journey.
 
