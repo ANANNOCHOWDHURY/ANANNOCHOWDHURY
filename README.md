@@ -5,7 +5,7 @@
 
 I am a fresher computer science and engineering (CSE) student at United International University (UIU). My keen interest in technology and programming inspired me to join this department. I am eager to learn new technologies and use them to solve real problems. My goal is to master cyber security. I believe UIU's world-class education and motivating environment will help me develop into a competent engineer and researcher. I am very excited to learn new things and be creative in this journey.
 
-
+-<img aline="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning Programe C 
 - 👯 I’m looking to collaborate on github 
